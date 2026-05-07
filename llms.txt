@@ -1,0 +1,52 @@
+# Geotechnique — Clermont-Ferrand
+
+> Geotechnical engineering services in Clermont-Ferrand, France.
+
+## Services
+- [Amelioration Sols](https://clermont-ferrand.geotechnique.sbs/amelioration-sols/)
+- [Ancrages](https://clermont-ferrand.geotechnique.sbs/ancrages/)
+- [Cbr Routier](https://clermont-ferrand.geotechnique.sbs/cbr-routier/)
+- [Chaussee Rigide](https://clermont-ferrand.geotechnique.sbs/chaussee-rigide/)
+- [Chaussee Souple](https://clermont-ferrand.geotechnique.sbs/chaussee-souple/)
+- [Colonnes Ballastees](https://clermont-ferrand.geotechnique.sbs/colonnes-ballastees/)
+- [Confidentialite](https://clermont-ferrand.geotechnique.sbs/confidentialite/)
+- [Densite Cone Sable](https://clermont-ferrand.geotechnique.sbs/densite-cone-sable/)
+- [Essai Cpt](https://clermont-ferrand.geotechnique.sbs/essai-cpt/)
+- [Essais Proctor](https://clermont-ferrand.geotechnique.sbs/essais-proctor/)
+- [Excavations](https://clermont-ferrand.geotechnique.sbs/excavations/)
+- [Excavations Profondes](https://clermont-ferrand.geotechnique.sbs/excavations-profondes/)
+- [Fondations](https://clermont-ferrand.geotechnique.sbs/fondations/)
+- [Geotechnique Routiere](https://clermont-ferrand.geotechnique.sbs/geotechnique-routiere/)
+- [Granulometrie](https://clermont-ferrand.geotechnique.sbs/granulometrie/)
+- [Injections](https://clermont-ferrand.geotechnique.sbs/injections/)
+- [Investigation](https://clermont-ferrand.geotechnique.sbs/investigation/)
+- [Isolation Sismique](https://clermont-ferrand.geotechnique.sbs/isolation-sismique/)
+- [Labo In Situ](https://clermont-ferrand.geotechnique.sbs/labo-in-situ/)
+- [Laboratoire](https://clermont-ferrand.geotechnique.sbs/laboratoire/)
+- [Limites Atterberg](https://clermont-ferrand.geotechnique.sbs/limites-atterberg/)
+- [Liquefaction](https://clermont-ferrand.geotechnique.sbs/liquefaction/)
+- [Masw](https://clermont-ferrand.geotechnique.sbs/masw/)
+- [Microzonage Sismique](https://clermont-ferrand.geotechnique.sbs/microzonage-sismique/)
+- [Murs Soutenement](https://clermont-ferrand.geotechnique.sbs/murs-soutenement/)
+- [Permeabilite In Situ](https://clermont-ferrand.geotechnique.sbs/permeabilite-in-situ/)
+- [Pieux](https://clermont-ferrand.geotechnique.sbs/pieux/)
+- [Puits Inspection](https://clermont-ferrand.geotechnique.sbs/puits-inspection/)
+- [Radiers](https://clermont-ferrand.geotechnique.sbs/radiers/)
+- [Refraction Sismique](https://clermont-ferrand.geotechnique.sbs/refraction-sismique/)
+- [Resistivite](https://clermont-ferrand.geotechnique.sbs/resistivite/)
+- [Semelles](https://clermont-ferrand.geotechnique.sbs/semelles/)
+- [Sismique](https://clermont-ferrand.geotechnique.sbs/sismique/)
+- [Sondages Spt](https://clermont-ferrand.geotechnique.sbs/sondages-spt/)
+- [Stabilite Talus](https://clermont-ferrand.geotechnique.sbs/stabilite-talus/)
+- [Surveillance Excavations](https://clermont-ferrand.geotechnique.sbs/surveillance-excavations/)
+- [Talus](https://clermont-ferrand.geotechnique.sbs/talus/)
+- [Triaxial](https://clermont-ferrand.geotechnique.sbs/triaxial/)
+- [Tunnels Sol Mou](https://clermont-ferrand.geotechnique.sbs/tunnels-sol-mou/)
+- [Vibrocompactage](https://clermont-ferrand.geotechnique.sbs/vibrocompactage/)
+
+## Contact
+- Website: https://clermont-ferrand.geotechnique.sbs/
+
+## About
+This site provides geotechnical engineering services in Clermont-Ferrand, France.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
